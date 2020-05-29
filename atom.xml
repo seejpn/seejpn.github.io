@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://seejpn.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-05-29T08:30:42.039Z</updated>
+    <title>随心博客</title>
+    <updated>2020-05-29T08:37:57.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://seejpn.github.io"/>
     <link rel="self" href="https://seejpn.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>随心博客</subtitle>
     <logo>https://seejpn.github.io/images/avatar.png</logo>
     <icon>https://seejpn.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 随心博客</rights>
     <entry>
         <title type="html"><![CDATA[test2]]></title>
         <id>https://seejpn.github.io/post/test2/</id>
